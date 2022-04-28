@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    margin:0;
+}
+.about{
+    font-size: 2rem;
+    background-color: #FEFBE7;
+    position: relative;
+    padding-top: 100px;
+}
+.name
+{
+    font-family: 'Whisper', cursive;
+    font-size: 5.56rem;
+    margin-top: 0px;;
+}
+.cloud1{
+    position: absolute;
+    right: 135px;
+    top: 50px;
+}
+.cloud2{
+    position: absolute;
+    bottom: 1000px;
+    left: 130px;
+}
+.progremmer{
+    height: 1000px;
+    width: 1000px;
+}
+
+.pro-style{
+    text-decoration: underline;
+}
+nav{
+    padding: 0px;
+    position:sticky;
+    top:92px;
+    box-sizing: border-box;
+    z-index: 1;
+    background-color: #f4f4f4;
+
+}
+a{
+    text-decoration: inherit;
+    color: #4b4b4b;
+    padding: 5px 25px; 
+}
+.cp
+{
+    margin: 20px auto 0px auto;
+    border-radius: 50%; 
+    
+}
+.web
+{
+    margin: 0px;
+    border-radius: 50%;
+}
+.Android
+{
+    margin: 20px auto 0px auto;
+    border-radius: 50%;
+}
+.myphoto1{
+    height: 200px;
+    width: 200px;
+}
+.programming
+{
+    font-size: 1.7rem;
+}
+.hobbies{
+    font-size: 1.7rem;
+}
+.music{
+    float: right;
+    position: absolute;
+    right: 500px;
+}
+.pro-stuff
+{
+    font-size: 1.7rem;
+}
+
