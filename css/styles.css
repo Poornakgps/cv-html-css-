@@ -68,9 +68,11 @@ a{
 }
 .programming
 {
+    font-family: 'Satisfy', cursive;
     font-size: 1.7rem;
 }
 .hobbies{
+    font-family: 'Courgette', cursive;
     font-size: 1.7rem;
 }
 .music{
@@ -80,6 +82,7 @@ a{
 }
 .pro-stuff
 {
+    font-family: 'Courgette', cursive;
     font-size: 1.7rem;
 }
 
